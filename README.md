@@ -1,5 +1,8 @@
 # movue-app
 
+## Live preview
+[LIVE](https://movuesearch.netlify.app/)
+
 ## Project setup
 ```
 npm install
